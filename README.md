@@ -1,7 +1,7 @@
 # 💫 Hi, this is 13RTK(or Alex as a content creator):
 
 - 🔭 I’m currently working as a remote full-stack developer and a [content creator](https://space.bilibili.com/337242418)
-- 📚 I have some free courses about [vue](https://www.bilibili.com/video/BV1NNrvYQERH/), [react](https://www.bilibili.com/video/BV1qK421x79b/), [nodejs](https://www.bilibili.com/video/BV1GCoBY7ES3), [SaaS](https://www.bilibili.com/video/BV1LJ4m1K7SX/), and [UI Libs Crash](https://www.bilibili.com/video/BV1SH4y1X7Cq/) for beginners
+- 📚 I have some free courses about [Vue](https://www.bilibili.com/video/BV1NNrvYQERH/), [React](https://www.bilibili.com/video/BV1qK421x79b/), [Angular](https://www.bilibili.com/video/BV1ZDpJzbELS), [NodeJS](https://www.bilibili.com/video/BV1GCoBY7ES3), [SaaS](https://www.bilibili.com/video/BV1LJ4m1K7SX/), and [UI Libs Crash](https://www.bilibili.com/video/BV1SH4y1X7Cq/) for beginners
 - 📫 How to reach me: fswwdza@gmail.com
 
 <hr />
@@ -29,7 +29,7 @@
 
 <hr />
 
-## 💰 You can help me by Donating
+## 💰 You can help me by donating
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hdalexjohn) [![Alipay](https://img.shields.io/badge/Alipay-0099FF.svg?style=for-the-badge&logo=Alipay&logoColor=white)](https://github.com/13RTK/13RTK/blob/main/alipay.jpg)
 
