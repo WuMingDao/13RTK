@@ -65,7 +65,7 @@
 
 ## GitHub stats:
 
-[![13RTK's GitHub stats](https://github-readme-stats.vercel.app/api?username=13RTK&show_icons=true&theme=transparent)](https://github.com/13RTK/github-readme-stats)
+[![13RTK's GitHub stats](https://github-readme-stats-mauve-seven-77.vercel.app/api?username=13RTK&show_icons=true&theme=transparent)](https://github.com/13RTK/github-readme-stats)
 
 ## 🔝 Top Contributed Repo
 
