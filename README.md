@@ -1,7 +1,7 @@
 # 💫 Hi, this is 13RTK(or Alex as a content creator):
 
 - 🔭 I’m currently working as a remote full-stack developer and a [content creator](https://space.bilibili.com/337242418)
-- 📚 I have some free courses about [Vue](https://www.bilibili.com/video/BV1NNrvYQERH/), [React](https://www.bilibili.com/video/BV1qK421x79b/), [Angular](https://www.bilibili.com/video/BV1ZDpJzbELS), [NodeJS](https://www.bilibili.com/video/BV1GCoBY7ES3), [SaaS](https://www.bilibili.com/video/BV1LJ4m1K7SX/), and [UI Libs Crash](https://www.bilibili.com/video/BV1SH4y1X7Cq/) for beginners
+- 📚 I have some free courses about [Vue](https://www.bilibili.com/video/BV1NNrvYQERH/), [React](https://www.bilibili.com/video/BV1jPvDBxE1C), [Angular](https://www.bilibili.com/video/BV1ZDpJzbELS), [NodeJS](https://www.bilibili.com/video/BV1GCoBY7ES3), [SaaS](https://www.bilibili.com/video/BV1LJ4m1K7SX/), and [UI Libs Crash](https://www.bilibili.com/video/BV1SH4y1X7Cq/) for beginners
 - 📫 How to reach me: fswwdza@gmail.com
 
 <hr />
