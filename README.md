@@ -69,4 +69,4 @@
 
 ## 🔝 Top Contributed Repo
 
-![]([https://github-contributor-stats.vercel.app/api?username=13rtk&limit=5&theme=dark&combine_all_yearly_contributions=true](https://github-contrib-stats.vercel.app/13rtk/contributed.svg))
+![Top Contributed Repo](https://github-contrib-stats.vercel.app/13rtk/contributed.svg?theme=dark)
